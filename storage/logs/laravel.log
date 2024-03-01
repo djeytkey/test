@@ -1,0 +1,21 @@
+[2024-03-01 01:00:04] local.CRITICAL: Invalid Tracking number : {id} {"id":28549} 
+[2024-03-01 01:00:15] local.CRITICAL: Invalid Tracking number : {id} {"id":28551} 
+[2024-03-01 01:00:26] local.CRITICAL: Invalid Tracking number : {id} {"id":28552} 
+[2024-03-01 01:00:37] local.CRITICAL: No statuses found : {id} {"id":28553} 
+[2024-03-01 01:00:48] local.CRITICAL: Invalid Tracking number : {id} {"id":28554} 
+[2024-03-01 01:00:59] local.CRITICAL: Invalid Tracking number : {id} {"id":28555} 
+[2024-03-01 01:01:22] local.CRITICAL: Invalid Tracking number : {id} {"id":28560} 
+[2024-03-01 01:01:33] local.CRITICAL: Invalid Tracking number : {id} {"id":28561} 
+[2024-03-01 01:01:57] local.CRITICAL: Invalid Tracking number : {id} {"id":28563} 
+[2024-03-01 01:02:09] local.CRITICAL: Invalid Tracking number : {id} {"id":28565} 
+[2024-03-01 01:02:20] local.CRITICAL: Invalid Tracking number : {id} {"id":28566} 
+[2024-03-01 01:02:32] local.CRITICAL: Invalid Tracking number : {id} {"id":28567} 
+[2024-03-01 01:02:44] local.CRITICAL: Invalid Tracking number : {id} {"id":28568} 
+[2024-03-01 01:02:55] local.CRITICAL: Invalid Tracking number : {id} {"id":28569} 
+[2024-03-01 01:03:07] local.CRITICAL: Invalid Tracking number : {id} {"id":28570} 
+[2024-03-01 01:03:18] local.CRITICAL: Invalid Tracking number : {id} {"id":28571} 
+[2024-03-01 01:03:30] local.CRITICAL: Invalid Tracking number : {id} {"id":28572} 
+[2024-03-01 01:03:43] local.CRITICAL: Invalid Tracking number : {id} {"id":28573} 
+[2024-03-01 01:04:18] local.INFO: Number of deliveries updates : {counter} {"counter":22} 
+[2024-03-01 01:04:18] local.INFO: ===================================================  
+
